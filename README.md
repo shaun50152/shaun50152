@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8957E5,100:BF91F3&height=180&section=header&text=shaun%20jacob&fontSize=72&fontColor=ffffff&animation=twinkling&desc=computer%20engineer%20%C2%B7%20schema%20%E2%86%92%20UI%20%C2%B7%20available%20may%202026&descSize=16&descAlign=50&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8957E5,100:BF91F3&height=180&section=header&text=shaun%20jacob&fontSize=72&fontColor=ffffff&animation=twinkling&desc=computer%20engineer%20%C2%B7%20full-stack%20%C2%B7%20open%20to%20roles%20nationwide&descSize=16&descAlign=50&descAlignY=72" width="100%" />
 
 <!-- typing -->
-<img src="https://readme-typing-svg.demolab.com/?lines=hey+%E2%80%94+I+build+things+people+actually+use;full-stack+%C2%B7+imaging+systems+%C2%B7+AML+graphs+%C2%B7+fast+React;UT+Arlington+CpE+%C2%B7+3.9+GPA+%C2%B7+Summa+Cum+Laude;currently+%40+ZephyRad+%E2%80%94+patient+imaging+software&font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=55" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?lines=hey+%E2%80%94+I+build+things+people+actually+use;full-stack+%C2%B7+imaging+systems+%C2%B7+AML+%C2%B7+AI+tools;UT+Arlington+CpE+%C2%B7+3.9+GPA+%C2%B7+Summa+Cum+Laude;open+to+software+roles+anywhere+in+the+USA&font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=55" alt="typing intro" />
 
 <br/>
 
@@ -32,12 +32,11 @@ Not buzzwords. Not "synergy." Just software that stays fast when real users show
 ## the short version
 
 ```text
-  graduating   may 2026 · UT Arlington · Computer Engineering (Honors)
+  graduated    may 2026 · UT Arlington · Computer Engineering (Honors)
   gpa          3.9 / 4.0 · Summa Cum Laude
-  based in     DFW · open to software roles
-  right now    shipping multi-tenant imaging software @ ZephyRad
-  into         React/Redux, Node, SQL, FastAPI, graph analytics, clean state
-  not into     vague tickets, mystery bugs, and "we'll refactor later"
+  based in     DFW · open to roles everywhere in the USA
+  recently     full-stack intern @ ZephyRad (patient imaging) · ended Apr 2026
+  into         React/Redux, Node, SQL, FastAPI, clean state
 ```
 
 Honors along the way: **Sabre Holdings Outstanding CpE Student Award**, IEEE **Eta Kappa Nu** scholar, Maverick Academic Scholar, Dean's List, InSTEM Leadership Honors.
@@ -47,10 +46,10 @@ Honors along the way: **Sabre Holdings Outstanding CpE Student Award**, IEEE **E
 ## where I've shipped
 
 <details open>
-<summary><b>🏥 ZephyRad Consulting</b> · Full-Stack SWE Intern · Dallas · Oct 2025 – Present</summary>
+<summary><b>🏥 ZephyRad Consulting</b> · Full-Stack SWE Intern · Dallas · Oct 2025 – Apr 2026</summary>
 <br/>
 
-Patient imaging software (multi-tenant RIS). I touch onboarding flows, diagnostic reporting, and imaging modules — React, Redux, Node, Express, MySQL.
+Patient imaging software (multi-tenant RIS). I worked on onboarding flows, diagnostic reporting, and imaging modules — React, Redux, Node, Express, MySQL.
 
 The fun part: untangling state so dashboards stop feeling sluggish. Restructured Redux and cut perceived load time by **~40%**. Also RBAC across tenants — because healthcare data shouldn't leak between clinics.
 
@@ -86,18 +85,22 @@ Shipped a full-stack guestbook platform from scratch: React frontend, Express AP
 
 <div align="center">
 
-<a href="https://github.com/aroudrasthakur/Cicada-AML">
-  <img width="400" src="https://socialify.git.ci/aroudrasthakur/Cicada-AML/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Cicada AML" />
+<a href="https://github.com/aroudrasthakur/ai_resume">
+  <img src="https://socialify.git.ci/aroudrasthakur/ai_resume/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark&color=%2339D353&stargazers=1&forks=1" alt="AI Resume Creator" width="420" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/acmuta/SmartAdvisors">
-  <img width="400" src="https://socialify.git.ci/acmuta/SmartAdvisors/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Diagonal&theme=Dark" alt="SmartAdvisors" />
+<a href="https://github.com/aroudrasthakur/Cicada-AML">
+  <img src="https://socialify.git.ci/aroudrasthakur/Cicada-AML/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark&color=%23BF91F3&stargazers=1&forks=1" alt="Cicada AML" width="420" />
 </a>
 
 <br/><br/>
 
+<a href="https://github.com/acmuta/SmartAdvisors">
+  <img src="https://socialify.git.ci/acmuta/SmartAdvisors/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Diagonal&theme=Dark&color=%2358A6FF&stargazers=1&forks=1" alt="SmartAdvisors" width="420" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/shaun50152/foodOS">
-  <img width="400" src="https://socialify.git.ci/shaun50152/foodOS/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="foodOS" />
+  <img src="https://socialify.git.ci/shaun50152/foodOS/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Plus&theme=Dark&color=%23F78166&stargazers=1&forks=1" alt="foodOS" width="420" />
 </a>
 
 </div>
@@ -105,6 +108,18 @@ Shipped a full-stack guestbook platform from scratch: React frontend, Express AP
 <br/>
 
 <details open>
+<summary><b>AI Resume Creator</b> — one profile, many tailored resumes</summary>
+<br/>
+
+You fill in your career once. Then for each job, it spins up a resume that actually fits that posting — without rewriting your whole life story every time.
+
+Next.js on the front, FastAPI + Celery workers in the back, Postgres/Supabase for storage, Redis for the queue, Cognito for auth. It searches your experience with vectors, then generates matching PDF / LaTeX / DOCX versions so you're not copy-pasting into three formats.
+
+The point: stop treating every application like starting from scratch.
+
+</details>
+
+<details>
 <summary><b>Cicada AML</b> — spotting shady money trails</summary>
 <br/>
 
@@ -143,46 +158,24 @@ React Native + Expo on mobile, Node + Supabase underneath. Auth, recipes, prep p
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,redux,angular,nodejs,py,fastapi,postgres,mysql,docker,java,cpp&perline=6&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,angular,nodejs,py,fastapi,postgres,mysql,redis,docker,aws,java,cpp&perline=5&theme=dark" alt="tech stack" />
 </a>
 
 </div>
 
 <br/>
 
-**Daily drivers:** TypeScript, React/Redux, Node/Express, SQL  
-**When the problem calls for it:** FastAPI, PyTorch, Angular, Storybook  
+**Daily drivers:** TypeScript, React/Next.js, Node/Express, SQL  
+**When the problem calls for it:** FastAPI, Celery, Redis, PyTorch, Angular, Storybook  
 **Side quest:** RadarCNN research — **95.9%** accuracy on **198k** mmWave radar frames (CpE brain activating)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## stuff that actually means something
-
 <div align="center">
 
-| | | |
-| :---: | :---: | :---: |
-| **3.9** | **~40%** | **270+** |
-| GPA · Summa Cum Laude | faster dashboards @ ZephyRad | engineers at my Citi AI workshop |
-| **185+** | **26** | **95.9%** |
-| AML rules in Cicada | Postgres migrations + RLS | RadarCNN top-1 accuracy |
-| **1,000+** | **3** | **May 2026** |
-| professors ranked in SmartAdvisors | internships shipped | available for full-time |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<div align="center">
-
-<!-- footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF91F3,50:58A6FF,100:8957E5&height=120&section=footer&fontSize=14&fontColor=ffffff&text=if%20you%20made%20it%20this%20far%20%E2%80%94%20say%20hi%20%F0%9F%91%8B&animation=scaleIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF91F3,50:58A6FF,100:8957E5&height=100&section=footer" width="100%" />
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=shaun50152&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="profile views" />
-
-<br/><br/>
 
 *"Types are documentation the compiler keeps honest."* — me, every time someone asks why I like TypeScript
 
