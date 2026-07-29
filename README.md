@@ -85,23 +85,32 @@ Shipped a full-stack guestbook platform from scratch: React frontend, Express AP
 
 <div align="center">
 
-<a href="https://github.com/aroudrasthakur/ai_resume">
-  <img src="https://socialify.git.ci/aroudrasthakur/ai_resume/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark&color=%2339D353&stargazers=1&forks=1" alt="AI Resume Creator" width="420" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/aroudrasthakur/Cicada-AML">
-  <img src="https://socialify.git.ci/aroudrasthakur/Cicada-AML/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark&color=%23BF91F3&stargazers=1&forks=1" alt="Cicada AML" width="420" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/acmuta/SmartAdvisors">
-  <img src="https://socialify.git.ci/acmuta/SmartAdvisors/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Diagonal&theme=Dark&color=%2358A6FF&stargazers=1&forks=1" alt="SmartAdvisors" width="420" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/shaun50152/foodOS">
-  <img src="https://socialify.git.ci/shaun50152/foodOS/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Plus&theme=Dark&color=%23F78166&stargazers=1&forks=1" alt="foodOS" width="420" />
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/aroudrasthakur/ai_resume">
+        <img src="https://socialify.git.ci/aroudrasthakur/ai_resume/image?font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark&color=%2339D353" alt="AI Resume Creator" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/aroudrasthakur/Cicada-AML">
+        <img src="https://socialify.git.ci/aroudrasthakur/Cicada-AML/image?font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark&color=%23BF91F3" alt="Cicada AML" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/acmuta/SmartAdvisors">
+        <img src="https://socialify.git.ci/acmuta/SmartAdvisors/image?font=KoHo&language=1&name=1&owner=1&pattern=Diagonal&theme=Dark&color=%2358A6FF" alt="SmartAdvisors" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/shaun50152/foodOS">
+        <img src="https://socialify.git.ci/shaun50152/foodOS/image?font=KoHo&language=1&name=1&owner=1&pattern=Plus&theme=Dark&color=%23F78166" alt="foodOS" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -157,17 +166,21 @@ React Native + Expo on mobile, Node + Supabase underneath. Auth, recipes, prep p
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,angular,nodejs,py,fastapi,postgres,mysql,redis,docker,aws,java,cpp&perline=5&theme=dark" alt="tech stack" />
-</a>
+**frontend**  
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,angular&theme=dark" alt="frontend" />
 
-</div>
+**backend & data**  
+<img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,postgres,mysql,redis&theme=dark" alt="backend" />
+
+**tools & systems**  
+<img src="https://skillicons.dev/icons?i=docker,aws,java,cpp,git,github&theme=dark" alt="tools" />
 
 <br/>
 
-**Daily drivers:** TypeScript, React/Next.js, Node/Express, SQL  
-**When the problem calls for it:** FastAPI, Celery, Redis, PyTorch, Angular, Storybook  
-**Side quest:** RadarCNN research — **95.9%** accuracy on **198k** mmWave radar frames (CpE brain activating)
+`TypeScript` `React` `Next.js` `Node` `SQL` · daily  
+`FastAPI` `Celery` `Redis` `Angular` `Storybook` · when needed
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
