@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: shaun50152
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg?color_snake=58A6FF&color_dots=#161b22,#21262d,#30363d,#58a6ff,#1f6feb&color_failures=0000000C&color_labels=ffffff
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target: output
+          build_dir: dist
+          commit_message: "chore: update contribution snake"
