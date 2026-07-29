@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8957E5,100:BF91F3&height=180&section=header&text=shaun%20jacob&fontSize=72&fontColor=ffffff&animation=twinkling&desc=computer%20engineer%20%C2%B7%20full-stack%20%C2%B7%20open%20to%20roles%20nationwide&descSize=16&descAlign=50&descAlignY=72" width="100%" />
 
 <!-- typing -->
-<img src="https://readme-typing-svg.demolab.com/?lines=hey+%E2%80%94+I+build+things+people+actually+use;full-stack+%C2%B7+imaging+systems+%C2%B7+AML+%C2%B7+AI+tools;UT+Arlington+CpE+%C2%B7+3.9+GPA+%C2%B7+Summa+Cum+Laude;open+to+software+roles+anywhere+in+the+USA&font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=55" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?lines=hey,+I+build+things+people+actually+use;full-stack+%C2%B7+imaging+systems+%C2%B7+AML+%C2%B7+AI+tools;UT+Arlington+CpE+%C2%B7+3.9+GPA+%C2%B7+Summa+Cum+Laude;open+to+software+roles+anywhere+in+the+USA&font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=55" alt="typing intro" />
 
 <br/>
 
-I'm the kind of engineer who wants to own the whole path — **data model, access control, and the UI people stare at all day.**  
-Not buzzwords. Not "synergy." Just software that stays fast when real users show up.
+I'm the kind of engineer who wants to own the whole path: **data model, access control, and the UI people stare at all day.**  
+No buzzwords. No "synergy." Just software that stays fast when real users show up.
 
 <br/>
 
@@ -35,45 +35,45 @@ Not buzzwords. Not "synergy." Just software that stays fast when real users show
   graduated    may 2026 · UT Arlington · Computer Engineering (Honors)
   gpa          3.9 / 4.0 · Summa Cum Laude
   based in     DFW · open to roles everywhere in the USA
-  recently     full-stack intern @ ZephyRad (patient imaging) · ended Apr 2026
+  recently     full-stack intern @ ZephyRad (patient imaging), ended Apr 2026
   into         React/Redux, Node, SQL, FastAPI, clean state
 ```
 
-Honors along the way: **Sabre Holdings Outstanding CpE Student Award**, IEEE **Eta Kappa Nu** scholar, Maverick Academic Scholar, Dean's List, InSTEM Leadership Honors.
+Along the way: **Sabre Holdings Outstanding CpE Student Award**, IEEE **Eta Kappa Nu** scholar, Maverick Academic Scholar, Dean's List, and InSTEM Leadership Honors.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## where I've shipped
 
 <details open>
-<summary><b>🏥 ZephyRad Consulting</b> · Full-Stack SWE Intern · Dallas · Oct 2025 – Apr 2026</summary>
+<summary><b>🏥 ZephyRad Consulting</b> · Full-Stack SWE Intern · Dallas · Oct 2025 to Apr 2026</summary>
 <br/>
 
-Patient imaging software (multi-tenant RIS). I worked on onboarding flows, diagnostic reporting, and imaging modules — React, Redux, Node, Express, MySQL.
+Patient imaging software for clinics sharing one platform. I worked on onboarding, diagnostic reporting, and imaging modules with React, Redux, Node, Express, and MySQL.
 
-The fun part: untangling state so dashboards stop feeling sluggish. Restructured Redux and cut perceived load time by **~40%**. Also RBAC across tenants — because healthcare data shouldn't leak between clinics.
+Favorite part of the job: digging into Redux so the dashboards stopped feeling sluggish. After restructuring state, perceived load time dropped by about **40%**. Also built access control across tenants, because patient data from one clinic should never show up in another.
 
 `React` `Redux` `TypeScript` `Node.js` `Express` `MySQL` `RBAC`
 
 </details>
 
 <details>
-<summary><b>🏦 Citigroup</b> · Software Developer Analyst · Irving · Jun – Aug 2025</summary>
+<summary><b>🏦 Citigroup</b> · Software Developer Analyst · Irving · Jun to Aug 2025</summary>
 <br/>
 
-Built an Angular task-management dashboard for cross-team workflow tracking. Introduced **Storybook** for component testing so UI changes stopped being a guessing game.
+Built an Angular dashboard so teams could track shared tasks without living in spreadsheets. Brought in **Storybook** so we could test UI pieces in isolation instead of hoping nothing broke on merge.
 
-Also ran a workshop on AI-assisted dev workflows for **270+ engineers** — not a slide deck flex, just showing what actually saved time in day-to-day coding.
+Also ran a workshop on AI-assisted coding for **270+ engineers**. Less of a TED talk, more "here's what actually saved me time this week."
 
 `Angular` `TypeScript` `Storybook` `ESLint` `Enterprise`
 
 </details>
 
 <details>
-<summary><b>🏗️ ALEC Engineering</b> · Front-End Intern · Dubai · Jun – Jul 2024</summary>
+<summary><b>🏗️ ALEC Engineering</b> · Front-End Intern · Dubai · Jun to Jul 2024</summary>
 <br/>
 
-Shipped a full-stack guestbook platform from scratch: React frontend, Express API, MySQL, JWT auth, multi-step check-in flows. First time deploying something real that non-engineers used daily.
+Built a guestbook platform end to end: React frontend, Express API, MySQL, JWT login, and a multi-step check-in flow. First time shipping something that regular people used every day, not just other engineers.
 
 `React` `Express.js` `MySQL` `JWT` `REST`
 
@@ -117,46 +117,46 @@ Shipped a full-stack guestbook platform from scratch: React frontend, Express AP
 <br/>
 
 <details open>
-<summary><b>AI Resume Creator</b> — one profile, many tailored resumes</summary>
+<summary><b>AI Resume Creator</b> · one profile, many tailored resumes</summary>
 <br/>
 
-You fill in your career once. Then for each job, it spins up a resume that actually fits that posting — without rewriting your whole life story every time.
+You fill in your career once. Then for each job, it builds a resume that actually fits that posting, without rewriting your whole life story every time.
 
-Next.js on the front, FastAPI + Celery workers in the back, Postgres/Supabase for storage, Redis for the queue, Cognito for auth. It searches your experience with vectors, then generates matching PDF / LaTeX / DOCX versions so you're not copy-pasting into three formats.
+Next.js on the front. FastAPI and Celery workers in the back. Postgres/Supabase for storage, Redis for the queue, Cognito for login. It finds the relevant bits of your experience, then spits out PDF, LaTeX, and DOCX so you're not copy-pasting into three formats.
 
-The point: stop treating every application like starting from scratch.
+Basically: stop treating every application like starting from scratch.
 
 </details>
 
 <details>
-<summary><b>Cicada AML</b> — spotting shady money trails</summary>
+<summary><b>Cicada AML</b> · spotting shady money trails</summary>
 <br/>
 
-Capstone project for analysts who need to look at a pile of transactions and figure out what's actually suspicious.
+Capstone for analysts staring at a mountain of transactions and trying to figure out what's actually weird.
 
-You drop in transaction data. The system checks it against **185+ rules**, runs a few models, and shows why something got flagged — not just a red light with no explanation. Backend in FastAPI/Python, review UI in React, Postgres with row-level security so people only see what they're supposed to.
+Drop in the data. The system runs it through **185+ rules** and a few models, then shows *why* something got flagged, not just a red light with no explanation. FastAPI/Python on the backend, React for the review UI, Postgres with row-level security so people only see what they should.
 
-Built with a team. I lived in the graph logic, the database migrations (**26** of them), and making the UI actually usable for someone who isn't a data scientist.
+I spent most of my time on the graph logic, the database migrations (**26** of them), and making the UI usable for someone who isn't a data scientist.
 
 </details>
 
 <details>
-<summary><b>SmartAdvisors</b> — "what should I take next semester?"</summary>
+<summary><b>SmartAdvisors</b> · "what should I take next semester?"</summary>
 <br/>
 
-Built with ACM @ UTA. You paste your transcript, answer a few preference questions, and it suggests courses + professors that fit — with reasons, not vibes.
+Built with ACM at UTA. Paste your transcript, answer a few preference questions, and it suggests courses and professors that fit, with reasons, not vibes.
 
-Pulled from **1,000+** professor rows and degree requirement data so recommendations aren't random. React on the front, Flask + SQL on the back. The goal was simple: help students stop guessing at RateMyProfessors at 2am.
+It pulls from **1,000+** professor rows and degree requirement data so the picks aren't random. React on the front, Flask and SQL on the back. Goal was simple: help students stop guessing on RateMyProfessors at 2am.
 
 </details>
 
 <details>
-<summary><b>foodOS</b> — what should I cook tonight?</summary>
+<summary><b>foodOS</b> · what should I cook tonight?</summary>
 <br/>
 
-Personal project: a fitness-minded food app that looks at your goals, what's in the pantry, and your schedule — then suggests what to make.
+Personal project. A fitness-minded food app that looks at your goals, what's in the pantry, and your schedule, then suggests what to make.
 
-React Native + Expo on mobile, Node + Supabase underneath. Auth, recipes, prep planning… the usual "I thought this would be a weekend thing" stack that teaches you everything the hard way.
+React Native and Expo on mobile, Node and Supabase underneath. Auth, recipes, prep planning... the classic "I thought this would take a weekend" project that teaches you everything the hard way.
 
 </details>
 
@@ -190,6 +190,7 @@ React Native + Expo on mobile, Node + Supabase underneath. Auth, recipes, prep p
 
 <br/>
 
-*"Types are documentation the compiler keeps honest."* — me, every time someone asks why I like TypeScript
+*"Types are documentation the compiler keeps honest."*  
+Me, every time someone asks why I like TypeScript.
 
 </div>
