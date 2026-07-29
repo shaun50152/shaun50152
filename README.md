@@ -87,29 +87,54 @@ Shipped a full-stack guestbook platform from scratch: React frontend, Express AP
 <div align="center">
 
 <a href="https://github.com/aroudrasthakur/Cicada-AML">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aroudrasthakur&repo=Cicada-AML&hide_border=true&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117" alt="Cicada AML" />
+  <img width="400" src="https://socialify.git.ci/aroudrasthakur/Cicada-AML/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Cicada AML" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/acmuta/SmartAdvisors">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=acmuta&repo=SmartAdvisors&hide_border=true&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117" alt="SmartAdvisors" />
+  <img width="400" src="https://socialify.git.ci/acmuta/SmartAdvisors/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Diagonal&theme=Dark" alt="SmartAdvisors" />
 </a>
 
-<a href="https://github.com/shaun50152/market-data-engine">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaun50152&repo=market-data-engine&hide_border=true&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117" alt="market-data-engine" />
-</a>
+<br/><br/>
+
 <a href="https://github.com/shaun50152/foodOS">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shaun50152&repo=foodOS&hide_border=true&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117" alt="foodOS" />
+  <img width="400" src="https://socialify.git.ci/shaun50152/foodOS/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="foodOS" />
 </a>
 
 </div>
 
 <br/>
 
-| project | what it actually does |
-| --- | --- |
-| **Cicada AML** | Upload transactions → FastAPI + NetworkX scores **185+ AML rules** + 5 classifier heads → React review UI. **26 Postgres migrations** with RLS. |
-| **SmartAdvisors** | Paste a transcript → maps degree reqs, ranks courses & 1k+ profs with explainable scoring. |
-| **market-data-engine** | Real-time market data pipeline — ingestion, storage, and APIs for downstream apps. |
-| **foodOS** | Food ordering / ops platform — full-stack React + Node, the kind of side project that teaches you auth the hard way. |
+<details open>
+<summary><b>Cicada AML</b> — spotting shady money trails</summary>
+<br/>
+
+Capstone project for analysts who need to look at a pile of transactions and figure out what's actually suspicious.
+
+You drop in transaction data. The system checks it against **185+ rules**, runs a few models, and shows why something got flagged — not just a red light with no explanation. Backend in FastAPI/Python, review UI in React, Postgres with row-level security so people only see what they're supposed to.
+
+Built with a team. I lived in the graph logic, the database migrations (**26** of them), and making the UI actually usable for someone who isn't a data scientist.
+
+</details>
+
+<details>
+<summary><b>SmartAdvisors</b> — "what should I take next semester?"</summary>
+<br/>
+
+Built with ACM @ UTA. You paste your transcript, answer a few preference questions, and it suggests courses + professors that fit — with reasons, not vibes.
+
+Pulled from **1,000+** professor rows and degree requirement data so recommendations aren't random. React on the front, Flask + SQL on the back. The goal was simple: help students stop guessing at RateMyProfessors at 2am.
+
+</details>
+
+<details>
+<summary><b>foodOS</b> — what should I cook tonight?</summary>
+<br/>
+
+Personal project: a fitness-minded food app that looks at your goals, what's in the pantry, and your schedule — then suggests what to make.
+
+React Native + Expo on mobile, Node + Supabase underneath. Auth, recipes, prep planning… the usual "I thought this would be a weekend thing" stack that teaches you everything the hard way.
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -117,7 +142,6 @@ Shipped a full-stack guestbook platform from scratch: React frontend, Express AP
 
 <div align="center">
 
-<!-- animated skill icons -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,react,redux,angular,nodejs,py,fastapi,postgres,mysql,docker,java,cpp&perline=6&theme=dark" alt="tech stack" />
 </a>
@@ -127,26 +151,23 @@ Shipped a full-stack guestbook platform from scratch: React frontend, Express AP
 <br/>
 
 **Daily drivers:** TypeScript, React/Redux, Node/Express, SQL  
-**When the problem calls for it:** FastAPI, PyTorch, NetworkX, Angular, Storybook  
-**Hardware crossover:** RadarCNN research — **95.9% top-1** on **198k** mmWave frames (because CpE means sometimes you train models too)
+**When the problem calls for it:** FastAPI, PyTorch, Angular, Storybook  
+**Side quest:** RadarCNN research — **95.9%** accuracy on **198k** mmWave radar frames (CpE brain activating)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## by the numbers
+## stuff that actually means something
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaun50152&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9&bg_color=0d1117" alt="github stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=shaun50152&theme=tokyonight&hide_border=true&stroke=30363d&ring=58a6ff&fire=bf91f3&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="streak stats" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaun50152&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&exclude_repo=shaun50152" alt="top languages" />
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=shaun50152&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="github trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaun50152&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=bf91f3&point=ffffff&area=true&area_color=58a6ff&custom_title=commit%20activity" alt="activity graph" width="100%" />
+| | | |
+| :---: | :---: | :---: |
+| **3.9** | **~40%** | **270+** |
+| GPA · Summa Cum Laude | faster dashboards @ ZephyRad | engineers at my Citi AI workshop |
+| **185+** | **26** | **95.9%** |
+| AML rules in Cicada | Postgres migrations + RLS | RadarCNN top-1 accuracy |
+| **1,000+** | **3** | **May 2026** |
+| professors ranked in SmartAdvisors | internships shipped | available for full-time |
 
 </div>
 
