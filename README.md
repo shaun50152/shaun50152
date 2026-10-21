@@ -88,13 +88,13 @@ Built a guestbook platform end to end: React frontend, Express API, MySQL, JWT l
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/aroudrasthakur/ai_resume">
-        <img src="https://socialify.git.ci/aroudrasthakur/ai_resume/image?font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark&color=%2339D353" alt="AI Resume Creator" width="100%" />
+      <a href="https://github.com/shaun50152/ai_resume">
+        <img src="https://socialify.git.ci/shaun50152/ai_resume/image?font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark&color=%2339D353" alt="AI Resume Creator" width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/aroudrasthakur/Cicada-AML">
-        <img src="https://socialify.git.ci/aroudrasthakur/Cicada-AML/image?font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark&color=%23BF91F3" alt="Cicada AML" width="100%" />
+      <a href="https://github.com/shaun50152/Cicada-AML">
+        <img src="https://socialify.git.ci/shaun50152/Cicada-AML/image?font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark&color=%23BF91F3" alt="Cicada AML" width="100%" />
       </a>
     </td>
   </tr>
